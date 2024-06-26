@@ -1,5 +1,4 @@
 # HTML Reversing Cookbook
-A repository of CyberChef recipes for reversing HTML files
 
 Welcome to the HTML Reversing Cookbook! This repository is a collection of CyberChef recipes for decoding and decrypting strings in HTML attachments. Whether you're a security professional, a developer, or just curious about reverse engineering, you'll find a variety of useful modules here.
 
