@@ -22,3 +22,5 @@ All recipes and detailed instructions can be found in the [main directory]() of 
 
 ## Contributing <a name="contributing"></a>
 We welcome contributions from the community! If you have a secret recipe (like a secret Italian sauce :smiley:) to share or an improvement to suggest, please submit a pull request. 
+
+This repository is maintained by one of my team members, [Sachin Shukla](https://github.com/sachin28).
