@@ -21,6 +21,6 @@ To get started, simply clone this repository and explore the main directory for 
 All recipes and detailed instructions can be found in the [main directory]() of Cisco Talos.
 
 ## Contributing <a name="contributing"></a>
-We welcome contributions from the community! If you have a secret recipe (like a secret Italian sauce :smiley:) to share or an improvement to suggest, please submit a pull request. 
+We welcome contributions from the community! If you have a secret recipe (like a secret Italian sauce :smiley:) to share or an improvement to suggest, please submit a pull request. Once the pull request is approved here, we will update the main repository of Cisco Talos as well.
 
 This repository is maintained by one of my team members, [Sachin Shukla](https://github.com/sachin28).
