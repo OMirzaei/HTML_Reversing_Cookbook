@@ -18,7 +18,7 @@ HTML Reversing Cookbook is a project aimed at providing comprehensive recipes to
 To get started, simply clone this repository and explore the main directory for reversing recipes.
 
 ## Recipes <a name="recipes"></a>
-All recipes and detailed instructions can be found in the [main directory]() of Cisco Talos.
+All recipes and detailed instructions can be found in the [main directory](https://github.com/Cisco-Talos/HTML_Reversing_Cookbook) of Cisco Talos.
 
 ## Contributing <a name="contributing"></a>
 We welcome contributions from the community! If you have a secret recipe (like a secret Italian sauce :smiley:) to share or an improvement to suggest, please submit a pull request. Once the pull request is approved here, we will update the main repository of Cisco Talos as well.
