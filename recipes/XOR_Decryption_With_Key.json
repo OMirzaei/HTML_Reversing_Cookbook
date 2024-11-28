@@ -1,0 +1,11 @@
+// "name": "XOR Decryption with Key"
+// "description": "This is a recipe for decrypting XOR-encoded data using a specified XOR key."
+// "details": "The XOR key can be a single byte or a repeating string. Ensure the input format (Base64 or Hex) is compatible with the recipe."
+// "chef": "Harshith Sai Veeraiah"
+[
+    { "op": "From Base64",
+      "args": ["A-Za-z0-9+/=", true, false] },
+    { "op": "XOR",
+      "args": [{ "option": "Hex", "string": "01" }, "Standard", false] }
+  ]
+  
